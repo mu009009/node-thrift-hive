@@ -3,11 +3,11 @@
   "description": "Hive client using the Apache Thrift RPC system",
   "version": "0.0.7",
   "author": "David Worms",
-  "contributors": [ 
+  "contributors": [
     { "name": "David Worms", "email": "david@adaltas.com" }
   ],
   "dependencies": {
-    "thrift": "latest",
+    "thrift": "0.9.1",
     "each": "latest"
   },
   "devDependencies": {
