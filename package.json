@@ -1,7 +1,7 @@
 {
   "name": "thrift-hive",
   "description": "Hive client using the Apache Thrift RPC system",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "author": "David Worms",
   "contributors": [
     { "name": "David Worms", "email": "david@adaltas.com" }
